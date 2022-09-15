@@ -1,2 +1,1 @@
-let () =
-    Printf.printf "Test"
+let () = Printf.printf "Test"
